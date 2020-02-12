@@ -10,7 +10,7 @@ University of Nebraska-Lincoln
 --------
 To submit your exercise solution, please
 
-1. copy the exercise notebook file and rename it as `week(5)_exercise_fist_last.ipynb`
+1. copy the exercise notebook file and rename it as `week5_exercise_fist_last.ipynb`
 
 2. add cells below each question and write your solution in those cells. Please test you code and generate and save the output.
 
