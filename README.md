@@ -1,4 +1,4 @@
-# Python Programming in Geoscience
+# NRES 898 Python Programming in Geoscience
 
 Dr. Michael Ou
 
