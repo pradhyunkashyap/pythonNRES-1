@@ -33,6 +33,6 @@
 ._*
 .Spotlight-V100
 .Trashes
-.ipynb_checkpoints
+.ipynb_checkpoints/
 ehthumbs.db
 Thumbs.db
